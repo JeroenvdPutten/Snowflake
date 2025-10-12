@@ -123,5 +123,5 @@ bar_chart = (
 # Render the second chart
 st.altair_chart(bar_chart, use_container_width=True)
 
-#test 2
+#test 3
 
